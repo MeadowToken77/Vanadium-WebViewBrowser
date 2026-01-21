@@ -53,9 +53,9 @@ mkdir -p "$MODPATH/$WVP"
 mkdir -p "$MODPATH/$BRP"
 
 # === URLs ===
-TRI_URL="https://gitlab.com/grapheneos/platform_external_vanadium/-/raw/2025110600/prebuilt/arm64/TrichromeLibrary.apk"
-WEB_URL="https://gitlab.com/grapheneos/platform_external_vanadium/-/raw/2025110600/prebuilt/arm64/TrichromeWebView.apk"
-BRW_URL="https://gitlab.com/grapheneos/platform_external_vanadium/-/raw/2025110600/prebuilt/arm64/TrichromeChrome.apk"
+TRI_URL="https://gitlab.com/grapheneos/platform_external_vanadium/-/raw/16-qpr2/prebuilt/arm64/TrichromeLibrary.apk?ref_type=heads"
+WEB_URL="https://gitlab.com/grapheneos/platform_external_vanadium/-/raw/16-qpr2/prebuilt/arm64/TrichromeWebView.apk?ref_type=heads"
+BRW_URL="https://gitlab.com/grapheneos/platform_external_vanadium/-/raw/16-qpr2/prebuilt/arm64/TrichromeChrome.apk?ref_type=heads"
 
 # ============================================================================
 # 🧱 DOWNLOAD E INSTALAÇÃO
